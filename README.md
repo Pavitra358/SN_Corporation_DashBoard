@@ -16,19 +16,22 @@ Approach:
   -Analyze regional sales data to pinpoint underperforming regions.
   -Investigate potential causes of lower sales in these regions.
   -Develop targeted marketing and sales strategies to address the identified issues.
-2. Optimize Product Categories
+   
+3. Optimize Product Categories
 Goal: Analyze the sales performance of different product subcategories to focus on high-performing products and improve or phase out low-performing ones.
 Approach:
   -Categorize products and analyze their sales performance.
   -Identify high-performing and low-performing product subcategories.
   -Recommend strategies for improving low-performing products or phasing them out, and focus more on high-performing products.
-3. Improve Shipping Efficiency
+   
+5. Improve Shipping Efficiency
 Goal: Evaluate the shipping modes and their impact on order quantity and delivery times to enhance customer satisfaction and reduce shipping costs.
 Approach:
   -Analyze shipping data to understand the performance of different shipping modes.
   -Assess the impact of shipping modes on delivery times and order quantities.
   -Recommend changes to shipping methods to improve efficiency and reduce costs.
-4. Expand Customer Base
+   
+7. Expand Customer Base
 Goal: Use insights from the dashboard to identify potential markets and customer segments for expansion.
 Approach:
    -Analyze current customer data to identify trends and patterns.
@@ -40,12 +43,15 @@ Project Implementation:
 1.Data Collection:
   -Gather sales data from various sources (e.g., CRM, ERP, sales databases).
   -Collect data on customer demographics, order history, and shipping methods.
+  
 2.Data Analysis:
   -Use data visualization tools like Power BI to create interactive dashboards.
   -Perform statistical analysis to identify trends and patterns in the data.
+  
 3.Strategy Development:
   -Based on the analysis, develop actionable strategies to achieve the key objectives.
   -Present findings and recommendations to stakeholders.
+  
 4.Monitoring and Evaluation:
   -Implement the recommended strategies and monitor their impact.
   -Regularly update the dashboards to reflect the latest data and trends.
